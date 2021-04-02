@@ -3,7 +3,7 @@ from telethon import TelegramClient
 from flask import Flask, request
 import telebot
 
-TOKEN = '838906822:AAFoj1ZFfRD2JFvK591Nd-DCXKsFA7n74vE'
+TOKEN = '1745152301:AAH7k2OqN6pakVZeTfqUKhTh40mNkHnFt3I'
 bot = telebot.TeleBot(TOKEN)
 server = Flask(__name__)
 
